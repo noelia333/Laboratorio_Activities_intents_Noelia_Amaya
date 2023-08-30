@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="saludo">Escriba un mensaje</string>
+    <string name="enviar">Enviar mensaje</string>
+    <string name="chat1">Chat 1</string>
+    <string name="chat2">Chat 2</string>
+</resources>
